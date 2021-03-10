@@ -2,7 +2,7 @@
 
 - 💻 Je suis développeur java.
 
-- 📁 Mon projet c'est [Solendia](https://solendia-pvp.fr).
+- 📁 Mon projet est [Solendia](https://solendia-pvp.fr).
 
 - 📌 Mon discord : Toky#9470.
 
