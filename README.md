@@ -1,16 +1,19 @@
-### Hi there 👋
+# Salut, je suis Toky 👋
 
-<!--
-**Toky-Dev/Toky-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Je suis développeur java.
 
-Here are some ideas to get you started:
+- 📁 Mon projet c'est [Solendia](https://solendia-pvp.fr).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📌 Mon discord : Toky#9470.
+
+## J'utilise :
+
+<img align="left" alt="Visual Studio Code" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+<img align="left" alt="Intellij Idea" width="27px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"/>
+<br/>
+
+## Mes stats :
+
+<img align="center" alt="Toky's Stats" src="https://github-readme-stats.vercel.app/api?username=Toky-Dev&show_icons=true&hide_border=true&theme=tokyonight" />
+<br/>
+<img align="center" alt="Toky's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toky-Dev&show_icons=true&layout=compact&hide_border=true&theme=tokyonight" />
