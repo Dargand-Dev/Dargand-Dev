@@ -13,6 +13,6 @@
 
 ## My stats :
 
-<img align="center" alt="Toky's Stats" src="https://github-readme-stats.vercel.app/api?username=Toky-Dev&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="center" alt="Dargand's Stats" src="https://github-readme-stats.vercel.app/api?username=Dargand-Dev&show_icons=true&hide_border=true&theme=tokyonight" />
 <br/>
-<img align="center" alt="Toky's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toky-Dev&show_icons=true&layout=compact&hide_border=true&theme=tokyonight" />
+<img align="center" alt="Dargand's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dargand-Dev&show_icons=true&layout=compact&hide_border=true&theme=tokyonight" />
