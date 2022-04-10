@@ -1,8 +1,8 @@
-# Hey, i'm Toky 👋
+# Hey, i'm Dargand 👋
 
 - 💻 I'm a java developer.
 
-- 📌 My discord : Toky#9470.
+- 📌 My discord : Dargand#0001.
 
 ---
 
