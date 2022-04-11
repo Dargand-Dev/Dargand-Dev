@@ -8,7 +8,9 @@
 
 ## My software :
 
-<img align="left" alt="Intellij Idea" width="27px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"/>
+![JavaScript](https://img.shields.io/badge/Javascript-yellow?logo=javascript&style=for-the-badge&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-green?logo=GNU%20Bash&style=for-the-badge&logoColor=white)
 <br/>
 
 ## My stats :
