@@ -2,7 +2,7 @@
 
 - 💻 I'm a java developer.
 
-- 📌 My discord : Dargand#0001.
+- 📌 My discord : Dargand#1500.
 
 ---
 
