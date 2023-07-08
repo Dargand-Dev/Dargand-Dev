@@ -1,6 +1,6 @@
 # Hey, i'm Dargand 👋
 
-- 💻 I'm a java developer.
+- 💻 I'm a FullStack developer.
 
 - 📌 My discord : dargand.
 
