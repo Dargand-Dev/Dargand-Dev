@@ -10,6 +10,8 @@
 
 <img align="left" alt="Intellij Idea" width="27px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"/>
 <br/>
+<img align="left" alt="Jenkins" width="27px" src="![image](https://github.com/Dargand-Dev/Dargand-Dev/assets/70805327/422ed311-b48f-46aa-9e99-fa88a609a668)
+"/>
 
 ## My stats :
 
